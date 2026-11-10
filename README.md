@@ -27,22 +27,25 @@ Persoanele care petrec mult timp stând jos, în special elevi, studenți și an
 ## Tech stack
 
 **Frontend:** React + TS
+
 **Backend:** Django
+
 **Persistența datelor:** MySQL
 
 ## Funcționalități propuse
 
-| **ID** | **Cerința funcțională**                                 | **Prioritate** | **Progres** |
-|--------|---------------------------------------------------------|----------------|-------------|
-| CF01   | Completarea chestionarului inițial                      |   Obligatorie  |      0%     |
-| CF02   | Generarea și configurarea obiceiurilor zilnice          |   Obligatorie  |      0%     |
-| CF03   | Marcarea obiceiurilor ca realizate                      |   Obligatorie  |      0%     |
-| CF04   | Calcularea progresului zilnic și a seriilor consecutive |   Obligatorie  |      0%     |
-| CF05   | Acordarea și gestionarea monedelor virtuale             |   Obligatorie  |      0%     |
-| CF06   | Achiziționarea și utilizarea unui streak freeze         |    Opțională   |      0%     |
-| CF07   | Adăugarea și gestionarea prietenilor                    |    Opțională   |      0%     |
-| CF08   | Vizualizarea progresului prietenilor                    |    Opțională   |      0%     |
-| CF09   | Trimiterea de încurajări (nudges)                       |    Opțională   |      0%     |
+| **ID** | **Funcționalitate propusă**                                    | **Prioritate** | **Progres** |
+| ------ | -------------------------------------------------------------- | -------------- | ----------- |
+| F01    | Chestionar inițial de evaluare                                 | Obligatorie    | 0%          |
+| F02    | Personalizarea obiceiurilor zilnice                            | Obligatorie    | 0%          |
+| F03    | Monitorizarea obiceiurilor zilnice                             | Obligatorie    | 0%          |
+| F04    | Sistem de progres zilnic și serii consecutive (*daily streak*) | Obligatorie    | 0%          |
+| F05    | Sistem de recompense cu monede virtuale                        | Obligatorie    | 0%          |
+| F06    | Magazin virtual de *streak freeze-uri*                         | Opțională      | 0%          |
+| F07    | Sistem de prietenii și gestionarea relațiilor sociale          | Opțională      | 0%          |
+| F08    | Vizualizarea progresului prietenilor                           | Opțională      | 0%          |
+| F09    | Sistem de încurajări și notificări (*nudges*)                  | Opțională      | 0%          |
+
 
 ## Project structure
 
