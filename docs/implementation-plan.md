@@ -2,28 +2,17 @@
 
 ## 1. Scopul documentului
 
-Acest document stabilește direcția tehnică și organizatorică pentru  
-implementarea aplicației web **PasCuPas**. Sunt prezentate tehnologiile  
-alese și justificarea lor, strategia de versionare, etapele de  
-dezvoltare, prioritizarea activităților și repartizarea  
-responsabilităților.
+Acest document stabilește direcția tehnică și organizatorică pentru implementarea aplicației web **PasCuPas**. Sunt prezentate tehnologiile alese și justificarea lor, strategia de versionare, etapele de dezvoltare, prioritizarea activităților și repartizarea responsabilităților.
 
 ## 2. Justificarea tehnologiilor
 
-Aplicația va utiliza o arhitectură client--server, în care frontendul  
-comunică cu backendul printr-un API REST. Backendul validează cererile,  
-aplică regulile aplicației și gestionează accesul la baza de date.
+Aplicația va utiliza o arhitectură client-server, în care frontendul comunică cu backendul printr-un API REST. Backendul validează cererile, aplică regulile aplicației și gestionează accesul la baza de date.
 
 ### 2.1. Frontend: React și TypeScript
 
-**React** va fi utilizat pentru construirea interfeței web pe bază de  
-componente reutilizabile. Această abordare permite separarea elementelor  
-interfeței și facilitează dezvoltarea și întreținerea lor.
+**React** va fi utilizat pentru construirea interfeței web pe bază de componente reutilizabile. Această abordare permite separarea elementelor interfeței și facilitează dezvoltarea și întreținerea lor.
 
-**TypeScript** adaugă tipizare statică peste JavaScript. Tipurile pentru  
-utilizatori, obiceiuri, înregistrări de activitate și răspunsuri API  
-ajută la identificarea unor erori în timpul dezvoltării și fac codul mai  
-ușor de înțeles și modificat.
+**TypeScript** adaugă tipizare statică peste JavaScript. Tipurile pentru utilizatori, obiceiuri, înregistrări de activitate și răspunsuri API ajută la identificarea unor erori în timpul dezvoltării și fac codul mai ușor de înțeles și modificat.
 
 Frontendul va fi responsabil de:
 - afișarea paginilor și componentelor aplicației 
