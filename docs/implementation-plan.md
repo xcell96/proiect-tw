@@ -1,4 +1,4 @@
-# PasCuPas --- Plan de implementare
+# PasCuPas - Plan de implementare
 
 ## 1. Scopul documentului
 
