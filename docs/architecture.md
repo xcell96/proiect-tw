@@ -1,0 +1,1 @@
+![Diagrama pentru arhitectura](image.png)
