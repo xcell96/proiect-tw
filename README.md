@@ -47,6 +47,10 @@ Persoanele care petrec mult timp stând jos, în special elevi, studenți și an
 | F09    | Sistem de încurajări și notificări (*nudges*)                  | Opțională      | 0%          |
 
 
+## Wireframes 
+
+https://www.figma.com/design/TX7TXm2yOg1DZLA5SHSTxU/Untitled?node-id=0-1&t=O8DmoxKHpfC43t9d-1
+
 ## Project structure
 
 ```text
