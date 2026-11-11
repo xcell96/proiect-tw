@@ -1,4 +1,4 @@
-![Diagrama pentru arhitectura](image.png)
+![Diagrama pentru arhitectura](architecture.png)
 ## 1. Frontend (React)
 
 ### `React` 
