@@ -1,4 +1,4 @@
-![Diagrama ERD](image-1.png)
+![Diagrama ERD](data-model.png)
 ## 1. Utilizatori (`/api/users`) — Entitatea `User`
 
 ### `GET` `/api/users/me`
