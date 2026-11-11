@@ -287,7 +287,7 @@ Următoarele reguli și aspecte afectează implementarea mai multor cerințe:
 1. **Delimitarea zilei:** ziua se va termina la 05:00, fusul orar al României.
 2. **Modificarea obiceiurilor:** (WIP)
 3. **Recompensele:** (WIP)
-4. **(WIP) Confidențialitatea:** .
+4. **Confidențialitatea:** (WIP)
 
 ## 5. Criterii generale de finalizare
 
